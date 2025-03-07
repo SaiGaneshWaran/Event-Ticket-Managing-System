@@ -1,0 +1,9 @@
+{
+    "short_name": "Ticket System",
+    "name": "Real-Time Event Ticketing System",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+    
+  }
